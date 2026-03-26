@@ -97,3 +97,33 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+# ===========================
+# Crashes & Dumps
+# ===========================
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
+
+# ===========================
+# Packaging
+# ===========================
+*.apk
+*.aab
+*.unitypackage
+ExportedProject/
+
+# ===========================
+# VR SDK Caches (Oculus/OpenXR)
+# ===========================
+[Aa]ssets/Oculus/
+[Aa]ssets/XR/Logs/
+[Aa]ssets/XR/UserSimulationSettings/
+XRPluginManagement/
+
+# ===========================
+# Node / npm (if using any JS tooling)
+# ===========================
+node_modules/
+package-lock.json

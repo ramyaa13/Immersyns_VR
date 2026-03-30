@@ -129,3 +129,8 @@ node_modules/
 package-lock.json
 Library/
 Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
